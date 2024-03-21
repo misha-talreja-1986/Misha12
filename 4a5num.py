@@ -1,0 +1,7 @@
+print("Area of the circle is:")
+num1=float(input("Enter the radius:"))
+print(3.14*num1*num1)
+print("Area of the triangle is:")
+num2=float(input("Enter the hieght:"))
+num3=float(input("Enter the base:"))
+print((num2*num3)/2)
